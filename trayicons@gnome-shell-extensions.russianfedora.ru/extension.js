@@ -13,4 +13,5 @@ function main() {
     StatusIconDispatcher.STANDARD_TRAY_ICON_IMPLEMENTATIONS['pidgin'] = 'pidgin';
     StatusIconDispatcher.STANDARD_TRAY_ICON_IMPLEMENTATIONS['abrt-applet'] = 'abrt-applet';
     StatusIconDispatcher.STANDARD_TRAY_ICON_IMPLEMENTATIONS['seapplet'] = 'seapplet';
+    StatusIconDispatcher.STANDARD_TRAY_ICON_IMPLEMENTATIONS['liferea'] = 'liferea';
 }
