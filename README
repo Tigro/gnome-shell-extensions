@@ -12,3 +12,5 @@ git clone git://github.com/Tigro/gnome-shell-extensions.git
 mv gnome-shell-extensions/* ~/.local/share/gnome-shell/extensions/
 rm -r gnome-shell-extensions
 ---
+
+Press ALT+F2, type 'r' and hit enter.
