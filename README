@@ -4,6 +4,7 @@ Move_Clock@rmy.pobox.com - move clock left. Modified from gnome-shell-frippery-0
 trayicons@gnome-shell-extensions.russianfedora.ru - some icons in tray
 weather@venemo.net - weather in panel. Modified from https://github.com/simon04/gnome-shell-extension-weather.git
 media@sotecware.net - rhythmbox extension. Modified from https://github.com/horazont/gnome-shell-extensions-mediaplayer.git
+noa11y@colemando.com - remove Accessibility icon. Copy from git://github.com/ecoleman/noa11y-colemando.com.git
 
 Installation
 
