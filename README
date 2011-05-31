@@ -3,6 +3,7 @@ Gnome Shell Extensions
 Move_Clock@rmy.pobox.com - move clock left. Modified from gnome-shell-frippery-0.0.4
 trayicons@gnome-shell-extensions.russianfedora.ru - some icons in tray
 weather@venemo.net - weather in panel. Modified from https://github.com/simon04/gnome-shell-extension-weather.git
+media@sotecware.net - rhythmbox extension. Modified from https://github.com/horazont/gnome-shell-extensions-mediaplayer.git
 
 Installation
 
